@@ -1,10 +1,10 @@
 package methodedeux;
 
-public class TRiBulle implements Trieuse{
+public class TriBulle implements Trieuse{
 
 	@Override
 	public void trier() {
-		// TODO Auto-generated method stub
+		System.out.println("tri bulle");
 
 	}
 
